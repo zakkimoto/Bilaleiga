@@ -1,0 +1,4 @@
+Yaris,Blar,1,2
+Golf,Svartur,1,3
+BMW X5,Hvitur,3,1
+i20,Raudur,1,2
